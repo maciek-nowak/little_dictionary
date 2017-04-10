@@ -1,0 +1,15 @@
+function | A series of statements which returns some value to a caller. | https://docs.python.org/3/glossary.html#term-function
+parameter | A named entity in a function (or method) definition that specifies an argument (or in some cases, arguments) that the function can accept. | https://docs.python.org/3/glossary.html#term-parameter
+variable | A variable is a location in memory used to store some data (value). | https://www.programiz.com/python-programming/variables-datatypes
+argument | A value passed to a function (or method) when calling the function. | https://docs.python.org/3/glossary.html#term-argument
+dictionary | An associative array, where arbitrary keys are mapped to values. | https://docs.python.org/3/glossary.html#term-dictionary
+tuple | Object similar to a list. The difference between the two is that we cannot change the elements of a tuple once it is assigned whereas in a list, elements can be changed. | https://www.programiz.com/python-programming/tuple
+ASCII table | ASCII stands for American Standard Code for Information Interchange. ASCII code is the numerical representation of a characters. | http://www.asciitable.com/
+module | An object that serves as an organizational unit of Python code. | https://docs.python.org/3/glossary.html#term-module
+list | A built-in Python sequence. | https://docs.python.org/3/glossary.html#term-list
+string | A string is a sequence of characters. | https://www.programiz.com/python-programming/string
+method | A function which is defined inside a class body. | https://docs.python.org/3/glossary.html#term-method
+loop | Loops are used in programming to repeat a specific block of code. | https://www.programiz.com/python-programming/while-loop
+immutable | An object with a fixed value. Immutable objects include numbers, strings and tuples. | https://docs.python.org/3/glossary.html#term-immutable
+iterables | An object capable of returning its members one at a time. | https://docs.python.org/3/glossary.html#term-iterable
+VCS | A component of software configuration management, version control system, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. | https://en.wikipedia.org/wiki/Version_control
